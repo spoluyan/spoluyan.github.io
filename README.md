@@ -1,2 +1,1 @@
-# spoluyan.github.io
-Home Site
+# Home Site
