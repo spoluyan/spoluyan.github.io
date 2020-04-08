@@ -1,2 +1,5 @@
-/.project
+.project
 .DS_Store
+.idea
+cv.pages
+*.iml
